@@ -1,4 +1,5 @@
-Puissance 4 — Version Python avec IA Minimax
+Puissance 4 - Version Python avec IA Minimax
+
 Ce projet est une implémentation complète du célèbre jeu Puissance 4, jouable en console contre une intelligence artificielle. Le jeu se déroule sur une grille personnalisée de 6 lignes par 12 colonnes, offrant plus de stratégie qu'une grille classique.
 
 Fonctionnalités principales :
